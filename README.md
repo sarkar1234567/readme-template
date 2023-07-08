@@ -1,6 +1,6 @@
 <!--markdown tutorial-->
 
-My name is Soumit Sarkar  
+My name is Soumit Sarkar
 This is second line
 
 ---
